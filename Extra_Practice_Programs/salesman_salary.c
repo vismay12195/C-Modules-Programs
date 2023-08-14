@@ -23,4 +23,5 @@ int main()
     printf("Bonus = %6.2f\n", bonus);
     printf("Commissio = %6.2f\n", commission);
     printf("Gross salary = %6.2f\n", gross_salary);
+    return 0;
 }
